@@ -1,0 +1,11 @@
+site\nomoreparties\stellarburgers\ingredients\IngredientSteps.class
+site\nomoreparties\stellarburgers\constantsApi\ApiEndPoints.class
+site\nomoreparties\stellarburgers\user\UserSteps.class
+site\nomoreparties\stellarburgers\user\UserResult.class
+site\nomoreparties\stellarburgers\order\OrderResult.class
+site\nomoreparties\stellarburgers\user\UserRandom.class
+site\nomoreparties\stellarburgers\ingredients\IngredientList.class
+site\nomoreparties\stellarburgers\config\RequestSpec.class
+site\nomoreparties\stellarburgers\order\OrderSteps.class
+site\nomoreparties\stellarburgers\user\UserCreate.class
+site\nomoreparties\stellarburgers\user\UserLogin.class
